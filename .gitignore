@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+*.so
+
+# VS Code
+.vscode/
+.vs/
+*.code-workspace
+.settings/
+
+# Output files/directories
+output*/
+Output*/
+OUTPUT*/
+augmented_data/*
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
+.idea/
+*.swp
+*.swo

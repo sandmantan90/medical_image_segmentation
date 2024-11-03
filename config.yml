@@ -1,0 +1,5 @@
+# config.yml
+
+CT_PATH: "C:/Users/admin/Desktop/KetanFiles/UCSD/FCRL-Lab/Total_segmentator/code/augmented_data/ct.nii_augmented/"
+OUTPUT_DIRECTORY: "C:/Users/admin/Desktop/KetanFiles/UCSD/FCRL-Lab/Total_segmentator/code/output_new"
+TASK: "total"
