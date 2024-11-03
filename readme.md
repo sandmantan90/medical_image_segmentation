@@ -1,3 +1,4 @@
+
 # Medical Image Segmentation Pipeline
 
 A comprehensive pipeline for medical CT image segmentation using TotalSegmentator, featuring 3D data augmentation, orientation correction, and segmentation quality evaluation.
